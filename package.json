@@ -1,16 +1,16 @@
 {
-"name": "vampirecharm",
-"theme": "vampire charm",
-"version": "4.5.9",
-"description": "vampire charm สมัครเว็บสล็อตเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
-"keywords": [
-"vampire charm",
-"vampire charm เครดิตฟรี",
-"vampire charm ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/vampirecharm",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "vampirecharm",
+  "theme": "vampire charm",
+  "version": "4.6.0",
+  "description": "vampire charm สมัครเว็บสล็อตเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+  "keywords": [
+    "vampire charm",
+    "vampire charm เครดิตฟรี",
+    "vampire charm ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/vampirecharm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
